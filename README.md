@@ -2,15 +2,15 @@
 
 ## 💻 Sobre Mim
 
-🎯 Desenvolvedor **Back-End** com foco em construir aplicações modernas, eficientes e escaláveis.<br>
+🎯 Desenvolvedor **Back-End**.<br>
 🚀 Apaixonado por aprender novas tecnologias e evoluir constantemente como profissional.
 
 ---
 
 ## 📚 Atualmente Estudando
 
-- 🌱 **Spring Framework** — desenvolvimento de APIs RESTful com Java
-- 🌐 **Angular** — front-end moderno e reativo para web apps
+- 🌱 **Spring Framework**
+- 🌐 **Angular**
 
 ---
 
